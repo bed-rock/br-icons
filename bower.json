@@ -1,6 +1,6 @@
 {
   "name": "br-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/bed-rock/br-icons",
   "authors": [
     "cbfranca <cleidsonbf@gmail.com>",
@@ -26,7 +26,6 @@
    "dependencies" : {
     "bedrock-base": "~1.0.0",
     "PolymerElements/iron-iconset-svg": "~1.0.8",
-    "PolymerElements/iron-meta": "~1.0.3",
     "PolymerElements/iron-icon": "~1.0.8"    
   }
 }
