@@ -1,6 +1,6 @@
 {
   "name": "br-icons",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://github.com/bed-rock/br-icons",
   "authors": [
     "cbfranca <cleidsonbf@gmail.com>",
@@ -19,7 +19,6 @@
     "**/.*",
     "node_modules",
     "bower_components",
-    "src",
     "test",
     "tests"
   ],
