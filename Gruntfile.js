@@ -39,7 +39,7 @@ module.exports = function (grunt) {
           cwd: 'dist/css/',
           src: ['*.css', '!*.min.css'],
           dest: 'dist/css/',
-          // ext: '.min.css'
+          ext: '.min.css'
         }]
       }
     },
