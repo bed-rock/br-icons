@@ -30,14 +30,14 @@
 
 @keyframes spin {
   0% {
-    opacity: 1;
+    // opacity: 1;
     transform: rotate(0deg);
   }
-  50% {
-    opacity: 0.3;
-  }
+  // 50% {
+  //   opacity: 0.3;
+  // }
   100% {
-    opacity: 1;
+    // opacity: 1;
     transform: rotate(359deg);
   }
 }
