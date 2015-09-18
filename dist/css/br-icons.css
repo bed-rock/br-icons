@@ -34,15 +34,10 @@
 
 @-webkit-keyframes spin {
   0% {
-    opacity: 1;
     -webkit-transform: rotate(0deg);
             transform: rotate(0deg);
   }
-  50% {
-    opacity: 0.3;
-  }
   100% {
-    opacity: 1;
     -webkit-transform: rotate(359deg);
             transform: rotate(359deg);
   }
@@ -50,15 +45,10 @@
 
 @keyframes spin {
   0% {
-    opacity: 1;
     -webkit-transform: rotate(0deg);
             transform: rotate(0deg);
   }
-  50% {
-    opacity: 0.3;
-  }
   100% {
-    opacity: 1;
     -webkit-transform: rotate(359deg);
             transform: rotate(359deg);
   }
