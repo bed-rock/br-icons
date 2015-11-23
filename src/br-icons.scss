@@ -1,7 +1,7 @@
 :host {
   display: inline-flex;
   align-items: center;
-  // fill: currentColor;
+  vertical-align: middle;
 
   &.icon__spin .svg {
     animation: rotate 1s infinite linear;

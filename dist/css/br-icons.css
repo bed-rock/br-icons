@@ -5,6 +5,7 @@
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
+  vertical-align: middle;
 }
 :host.icon__spin .svg {
   -webkit-animation: rotate 1s infinite linear;
