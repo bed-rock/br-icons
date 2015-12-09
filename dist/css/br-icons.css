@@ -6,6 +6,7 @@
       -ms-flex-align: center;
           align-items: center;
   vertical-align: middle;
+  fill: currentColor;
 }
 :host.icon__spin .svg {
   -webkit-animation: rotate 1s infinite linear;

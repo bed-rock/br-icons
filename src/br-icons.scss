@@ -2,6 +2,7 @@
   display: inline-flex;
   align-items: center;
   vertical-align: middle;
+  fill: currentColor;
 
   &.icon__spin .svg {
     animation: rotate 1s infinite linear;
